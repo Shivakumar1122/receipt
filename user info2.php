@@ -1,8 +1,8 @@
 
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "admin";
+$password = "shiva123";
 $dbname = "bank";
 
 // Create connection
